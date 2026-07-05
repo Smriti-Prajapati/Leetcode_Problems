@@ -9,6 +9,7 @@ A collection of LeetCode questions!
 | [0001-two-sum](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0011-container-with-most-water) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0238-product-of-array-except-self](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0238-product-of-array-except-self) |
 | [1301-number-of-paths-with-max-score](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1301-number-of-paths-with-max-score) |
 ## Dynamic Programming
 |  |
@@ -31,4 +32,8 @@ A collection of LeetCode questions!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0011-container-with-most-water) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
