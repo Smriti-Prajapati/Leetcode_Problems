@@ -42,4 +42,8 @@ A collection of LeetCode questions!
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0128-longest-consecutive-sequence) |
+## String
+|  |
+| ------- |
+| [0520-detect-capital](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0520-detect-capital) |
 <!---LeetCode Topics End-->
