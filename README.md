@@ -6,6 +6,7 @@ A collection of LeetCode questions!
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0001-two-sum) |
 | [1301-number-of-paths-with-max-score](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1301-number-of-paths-with-max-score) |
 ## Dynamic Programming
 |  |
@@ -15,4 +16,8 @@ A collection of LeetCode questions!
 |  |
 | ------- |
 | [1301-number-of-paths-with-max-score](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1301-number-of-paths-with-max-score) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
