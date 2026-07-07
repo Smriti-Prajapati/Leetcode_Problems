@@ -8,6 +8,7 @@ A collection of LeetCode questions!
 | ------- |
 | [0001-two-sum](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0042-trapping-rain-water) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0238-product-of-array-except-self](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0238-product-of-array-except-self) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0042-trapping-rain-water) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [1301-number-of-paths-with-max-score](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1301-number-of-paths-with-max-score) |
 ## Matrix
@@ -31,6 +33,7 @@ A collection of LeetCode questions!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0042-trapping-rain-water) |
 ## Greedy
 |  |
 | ------- |
@@ -51,4 +54,12 @@ A collection of LeetCode questions!
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1288-remove-covered-intervals) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
