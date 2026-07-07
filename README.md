@@ -13,6 +13,7 @@ A collection of LeetCode questions!
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0128-longest-consecutive-sequence) |
+| [0162-find-peak-element](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0162-find-peak-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0238-product-of-array-except-self](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0238-product-of-array-except-self) |
 | [1288-remove-covered-intervals](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1288-remove-covered-intervals) |
@@ -73,4 +74,8 @@ A collection of LeetCode questions!
 |  |
 | ------- |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+## Binary Search
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
