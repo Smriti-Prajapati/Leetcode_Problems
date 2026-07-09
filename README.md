@@ -21,6 +21,7 @@ A collection of LeetCode questions!
 | [0322-coin-change](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0322-coin-change) |
 | [1288-remove-covered-intervals](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1301-number-of-paths-with-max-score) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions!
 | ------- |
 | [0001-two-sum](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0128-longest-consecutive-sequence) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -62,6 +64,7 @@ A collection of LeetCode questions!
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0128-longest-consecutive-sequence) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## String
 |  |
 | ------- |
@@ -89,6 +92,7 @@ A collection of LeetCode questions!
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0162-find-peak-element) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -97,4 +101,8 @@ A collection of LeetCode questions!
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0322-coin-change) |
+## Graph Theory
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 <!---LeetCode Topics End-->
