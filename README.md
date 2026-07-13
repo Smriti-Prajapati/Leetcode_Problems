@@ -12,6 +12,7 @@ A collection of LeetCode questions!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0078-subsets) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Depth-First Search
@@ -162,4 +164,8 @@ A collection of LeetCode questions!
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1291-sequential-digits) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
