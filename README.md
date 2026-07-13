@@ -134,6 +134,7 @@ A collection of LeetCode questions!
 ## Bit Manipulation
 |  |
 | ------- |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Depth-First Search
 |  |
