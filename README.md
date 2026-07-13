@@ -157,4 +157,8 @@ A collection of LeetCode questions!
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0239-sliding-window-maximum) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
