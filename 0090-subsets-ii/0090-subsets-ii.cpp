@@ -1,0 +1,19 @@
+class Solution {
+public:
+    vector<vector<int>> subsetsWithDup(vector<int>& nums) {
+        int n= nums.size();
+        int subsets= 1<<n;
+        sort(nums.begin(), nums.end());
+        set<vector<int>> st;
+        for(int mask=0; mask<subsets; mask++){
+            vector<int> list;
+            for(int i=0; i<n;i++){
+                if(mask &(1<<i)){
+                    list.push_back(nums[i]);
+                }
+            }
+            st.insert(list);
+        }
+        return {st.begin(), st.end()};
+    }
+};
