@@ -114,6 +114,7 @@ A collection of LeetCode questions!
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0029-divide-two-integers) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0136-single-number) |
