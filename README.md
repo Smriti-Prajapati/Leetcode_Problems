@@ -28,6 +28,7 @@ A collection of LeetCode questions!
 | [0260-single-number-iii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0260-single-number-iii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0322-coin-change) |
+| [0621-task-scheduler](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0621-task-scheduler) |
 | [1288-remove-covered-intervals](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1331-rank-transform-of-an-array) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions!
 | [0001-two-sum](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0128-longest-consecutive-sequence) |
+| [0621-task-scheduler](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0621-task-scheduler) |
 | [1331-rank-transform-of-an-array](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1331-rank-transform-of-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Two Pointers
@@ -77,6 +79,7 @@ A collection of LeetCode questions!
 | ------- |
 | [0011-container-with-most-water](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0621-task-scheduler](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0621-task-scheduler) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Prefix Sum
 |  |
@@ -102,6 +105,7 @@ A collection of LeetCode questions!
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0015-3sum) |
+| [0621-task-scheduler](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0621-task-scheduler) |
 | [1288-remove-covered-intervals](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -177,6 +181,7 @@ A collection of LeetCode questions!
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0239-sliding-window-maximum) |
+| [0621-task-scheduler](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0621-task-scheduler) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -204,4 +209,8 @@ A collection of LeetCode questions!
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0207-course-schedule) |
+## Counting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
