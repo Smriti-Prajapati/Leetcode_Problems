@@ -13,6 +13,7 @@ A collection of LeetCode questions!
 | [0042-trapping-rain-water](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions!
 | [0015-3sum](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0125-valid-palindrome) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions!
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0088-merge-sorted-array) |
 | [0621-task-scheduler](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0621-task-scheduler) |
 | [1288-remove-covered-intervals](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1331-rank-transform-of-an-array) |
