@@ -32,6 +32,7 @@ A collection of LeetCode questions!
 | [1288-remove-covered-intervals](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1331-rank-transform-of-an-array) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions!
 | [0128-longest-consecutive-sequence](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0621-task-scheduler](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0621-task-scheduler) |
 | [1331-rank-transform-of-an-array](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1331-rank-transform-of-an-array) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Two Pointers
 |  |
@@ -86,6 +88,7 @@ A collection of LeetCode questions!
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0238-product-of-array-except-self) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Union-Find
 |  |
@@ -122,6 +125,7 @@ A collection of LeetCode questions!
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0029-divide-two-integers) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -132,6 +136,7 @@ A collection of LeetCode questions!
 | ------- |
 | [0162-find-peak-element](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0209-minimum-size-subarray-sum) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Divide and Conquer
@@ -198,6 +203,7 @@ A collection of LeetCode questions!
 ## Number Theory
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -213,4 +219,9 @@ A collection of LeetCode questions!
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0621-task-scheduler) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/3312-sorted-gcd-pair-queries) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
