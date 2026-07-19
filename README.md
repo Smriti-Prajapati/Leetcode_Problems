@@ -86,6 +86,7 @@ A collection of LeetCode questions!
 | [0011-container-with-most-water](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0621-task-scheduler](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0621-task-scheduler) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Prefix Sum
 |  |
@@ -106,6 +107,7 @@ A collection of LeetCode questions!
 | [0003-longest-substring-without-repeating-characters](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0125-valid-palindrome) |
 | [0520-detect-capital](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0520-detect-capital) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1143-longest-common-subsequence) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sorting
@@ -122,10 +124,12 @@ A collection of LeetCode questions!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0042-trapping-rain-water) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0042-trapping-rain-water) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Math
 |  |
 | ------- |
