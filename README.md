@@ -111,6 +111,7 @@ A collection of LeetCode questions!
 | [0520-detect-capital](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0520-detect-capital) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1143-longest-common-subsequence) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sorting
 |  |
@@ -209,6 +210,7 @@ A collection of LeetCode questions!
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1291-sequential-digits) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Backtracking
 |  |
 | ------- |
