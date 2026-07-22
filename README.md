@@ -23,6 +23,7 @@ A collection of LeetCode questions!
 | [0128-longest-consecutive-sequence](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0137-single-number-ii) |
+| [0149-max-points-on-a-line](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0149-max-points-on-a-line) |
 | [0162-find-peak-element](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0162-find-peak-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0209-minimum-size-subarray-sum](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0209-minimum-size-subarray-sum) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions!
 | [0001-two-sum](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0128-longest-consecutive-sequence) |
+| [0149-max-points-on-a-line](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0149-max-points-on-a-line) |
 | [0621-task-scheduler](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0621-task-scheduler) |
 | [1331-rank-transform-of-an-array](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1331-rank-transform-of-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/3312-sorted-gcd-pair-queries) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions!
 | [0050-powx-n](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0069-sqrtx) |
+| [0149-max-points-on-a-line](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0149-max-points-on-a-line) |
 | [0172-factorial-trailing-zeroes](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0172-factorial-trailing-zeroes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/3312-sorted-gcd-pair-queries) |
@@ -259,4 +262,8 @@ A collection of LeetCode questions!
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0050-powx-n) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
