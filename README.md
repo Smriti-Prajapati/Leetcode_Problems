@@ -140,6 +140,7 @@ A collection of LeetCode questions!
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0029-divide-two-integers) |
+| [0050-powx-n](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0172-factorial-trailing-zeroes) |
@@ -254,4 +255,8 @@ A collection of LeetCode questions!
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
