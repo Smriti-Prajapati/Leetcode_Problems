@@ -6,7 +6,7 @@ public:
         for(int i=0; i<nums.size(); i++){
             if(cnt==0){
                 cnt=1;
-                el=nums[i];
+                el= nums[i];
             }
             else if(nums[i]== el){
                 cnt++;
@@ -15,9 +15,9 @@ public:
                 cnt--;
             }
         }
-        int cnt1=0; 
+        int cnt1=0;
         for(int i=0; i<nums.size(); i++){
-            if(nums[i]==el){
+            if(nums[i]== el){
                 cnt1++;
             }
             if(cnt1 > (nums.size()/2)){
