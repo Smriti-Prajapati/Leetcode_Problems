@@ -143,6 +143,7 @@ A collection of LeetCode questions!
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0066-plus-one) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions!
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0050-powx-n) |
 ## Geometry
 |  |
@@ -271,5 +273,6 @@ A collection of LeetCode questions!
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
