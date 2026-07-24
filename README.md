@@ -37,6 +37,7 @@ A collection of LeetCode questions!
 | [0238-product-of-array-except-self](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0260-single-number-iii) |
+| [0274-h-index](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0274-h-index) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0322-coin-change) |
 | [0621-task-scheduler](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0621-task-scheduler) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions!
 | [0049-group-anagrams](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0169-majority-element) |
+| [0274-h-index](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0274-h-index) |
 | [0621-task-scheduler](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0621-task-scheduler) |
 | [1288-remove-covered-intervals](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1331-rank-transform-of-an-array) |
@@ -306,4 +308,8 @@ A collection of LeetCode questions!
 | [0002-add-two-numbers](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0141-linked-list-cycle) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
