@@ -3,10 +3,10 @@ public:
     int majorityElement(vector<int>& nums) {
         int cnt=0;
         int el;
-        for(int i=0; i<nums.size(); i++){
+        for(int i=0; i<nums.size();i++){
             if(cnt==0){
                 cnt=1;
-                el= nums[i];
+                el=nums[i];
             }
             else if(nums[i]== el){
                 cnt++;
@@ -20,10 +20,10 @@ public:
             if(nums[i]== el){
                 cnt1++;
             }
-            if(cnt1 > (nums.size()/2)){
+            if(cnt1> (nums.size()/2)){
                 return el;
             }
         }
-        return -1;
+        return -1; 
     }
 };
