@@ -4,13 +4,13 @@ public:
         long long left=0;
         long long right=x;
         long long ans=0;
-        while(left<=right){
-            long long mid= left+(right-left)/2;
+        while(left<= right){
+            long long mid= left+(right- left)/2;
             long long square= mid*mid;
-            if(square == x){
+            if(square ==x){
                 return mid;
             }
-            if(square<x){
+            else if(square<x){
                 ans= mid;
                 left= mid+1;
             }
