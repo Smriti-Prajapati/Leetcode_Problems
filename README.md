@@ -40,6 +40,7 @@ A collection of LeetCode questions!
 | [0274-h-index](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0274-h-index) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0322-coin-change) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0621-task-scheduler](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0621-task-scheduler) |
 | [1260-shift-2d-grid](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1288-remove-covered-intervals) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions!
 | [0141-linked-list-cycle](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0141-linked-list-cycle) |
 | [0149-max-points-on-a-line](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0169-majority-element) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0621-task-scheduler](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0621-task-scheduler) |
 | [1331-rank-transform-of-an-array](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1331-rank-transform-of-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/3312-sorted-gcd-pair-queries) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions!
 | [0149-max-points-on-a-line](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0149-max-points-on-a-line) |
 | [0172-factorial-trailing-zeroes](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0189-rotate-array) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -314,4 +317,12 @@ A collection of LeetCode questions!
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0274-h-index) |
+## Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
