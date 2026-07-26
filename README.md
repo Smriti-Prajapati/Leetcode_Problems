@@ -93,6 +93,7 @@ A collection of LeetCode questions!
 | [0013-roman-to-integer](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0128-longest-consecutive-sequence) |
+| [0133-clone-graph](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0141-linked-list-cycle) |
 | [0149-max-points-on-a-line](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0169-majority-element) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions!
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0130-surrounded-regions) |
+| [0133-clone-graph](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0322-coin-change) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions!
 ## Graph Theory
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0207-course-schedule) |
 | [2685-count-the-number-of-complete-components](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -259,6 +262,7 @@ A collection of LeetCode questions!
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0130-surrounded-regions) |
+| [0133-clone-graph](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0207-course-schedule) |
 | [2685-count-the-number-of-complete-components](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/2685-count-the-number-of-complete-components) |
