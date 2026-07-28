@@ -45,6 +45,7 @@ A collection of LeetCode questions!
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0322-coin-change) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0380-insert-delete-getrandom-o1) |
+| [0399-evaluate-division](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0399-evaluate-division) |
 | [0621-task-scheduler](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1260-shift-2d-grid) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions!
 | [0128-longest-consecutive-sequence](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0399-evaluate-division) |
 | [2685-count-the-number-of-complete-components](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## String
@@ -155,6 +157,7 @@ A collection of LeetCode questions!
 | [0013-roman-to-integer](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0125-valid-palindrome) |
+| [0399-evaluate-division](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0399-evaluate-division) |
 | [0520-detect-capital](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0520-detect-capital) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1143-longest-common-subsequence) |
@@ -241,6 +244,7 @@ A collection of LeetCode questions!
 | [0207-course-schedule](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0322-coin-change) |
+| [0399-evaluate-division](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0399-evaluate-division) |
 | [2685-count-the-number-of-complete-components](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
 |  |
@@ -248,6 +252,7 @@ A collection of LeetCode questions!
 | [0133-clone-graph](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0210-course-schedule-ii) |
+| [0399-evaluate-division](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0399-evaluate-division) |
 | [2685-count-the-number-of-complete-components](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -272,6 +277,7 @@ A collection of LeetCode questions!
 | [0200-number-of-islands](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0210-course-schedule-ii) |
+| [0399-evaluate-division](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0399-evaluate-division) |
 | [2685-count-the-number-of-complete-components](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/2685-count-the-number-of-complete-components) |
 ## Queue
 |  |
@@ -365,4 +371,8 @@ A collection of LeetCode questions!
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0380-insert-delete-getrandom-o1) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
