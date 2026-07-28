@@ -239,6 +239,7 @@ A collection of LeetCode questions!
 | [0133-clone-graph](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0322-coin-change) |
 | [2685-count-the-number-of-complete-components](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
@@ -246,6 +247,7 @@ A collection of LeetCode questions!
 | ------- |
 | [0133-clone-graph](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0210-course-schedule-ii) |
 | [2685-count-the-number-of-complete-components](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions!
 | [0133-clone-graph](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0210-course-schedule-ii) |
 | [2685-count-the-number-of-complete-components](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/2685-count-the-number-of-complete-components) |
 ## Queue
 |  |
@@ -318,6 +321,7 @@ A collection of LeetCode questions!
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0210-course-schedule-ii) |
 ## Counting
 |  |
 | ------- |
