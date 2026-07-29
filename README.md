@@ -241,6 +241,7 @@ A collection of LeetCode questions!
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0133-clone-graph) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions!
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0133-clone-graph) |
@@ -385,9 +387,11 @@ A collection of LeetCode questions!
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
