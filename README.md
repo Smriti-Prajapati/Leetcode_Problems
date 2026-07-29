@@ -248,6 +248,7 @@ A collection of LeetCode questions!
 | [0200-number-of-islands](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0399-evaluate-division) |
 | [2685-count-the-number-of-complete-components](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/2685-count-the-number-of-complete-components) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions!
 | [0200-number-of-islands](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0226-invert-binary-tree) |
 | [0399-evaluate-division](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0399-evaluate-division) |
 | [2685-count-the-number-of-complete-components](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/2685-count-the-number-of-complete-components) |
 ## Queue
@@ -389,9 +391,11 @@ A collection of LeetCode questions!
 | ------- |
 | [0100-same-tree](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
