@@ -44,8 +44,7 @@ public:
                 if(curr->right)
                     q.push(curr->right);
             }
-            if(curr==NULL)
-                prev=curr;
+            
         }
         return root;
     }
