@@ -29,7 +29,7 @@ public:
             Node* curr= q.front();
             q.pop();
             if(curr==NULL){
-                prev=NULL;
+                
                 if(q.empty())
                     break;
                 q.push(curr);
@@ -44,7 +44,8 @@ public:
                 if(curr->right)
                     q.push(curr->right);
             }
-            
+            if(curr==NULL)
+                prev=curr;
         }
         return root;
     }
