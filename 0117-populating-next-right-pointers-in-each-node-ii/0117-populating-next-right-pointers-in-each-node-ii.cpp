@@ -29,15 +29,16 @@ public:
             Node* curr= q.front();
             q.pop();
             if(curr==NULL){
-                if(q.empty()){
+                prev=NULL;
+                if(q.empty())
                     break;
-                }
-                q.push(NULL);
+                q.push(curr);
             }
             else{
-                if(prev != NULL)
+                if(prev!= NULL){
                     prev->next=curr;
-                prev=curr;
+                }
+                prev= curr;
                 if(curr->left)
                     q.push(curr->left);
                 if(curr->right)
