@@ -48,6 +48,7 @@ A collection of LeetCode questions!
 | [0322-coin-change](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0322-coin-change) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0399-evaluate-division) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0621-task-scheduler](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1260-shift-2d-grid) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions!
 | [0169-majority-element](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0380-insert-delete-getrandom-o1) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0621-task-scheduler](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0621-task-scheduler) |
 | [1331-rank-transform-of-an-array](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1331-rank-transform-of-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions!
 | [0141-linked-list-cycle](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0202-happy-number) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
@@ -184,6 +187,7 @@ A collection of LeetCode questions!
 | [0088-merge-sorted-array](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0274-h-index) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0621-task-scheduler](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1288-remove-covered-intervals) |
@@ -240,6 +244,7 @@ A collection of LeetCode questions!
 | [0069-sqrtx](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
