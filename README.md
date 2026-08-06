@@ -175,6 +175,7 @@ A collection of LeetCode questions!
 | [0012-integer-to-roman](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0125-valid-palindrome) |
 | [0399-evaluate-division](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0399-evaluate-division) |
 | [0520-detect-capital](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0520-detect-capital) |
