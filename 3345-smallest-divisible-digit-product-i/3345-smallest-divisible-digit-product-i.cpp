@@ -1,12 +1,12 @@
 class Solution {
 public:
     int digitProduct(int x){
-        int prod=1;
+        int product=1;
         while(x>0){
-            prod *=(x%10);
+            product *= (x%10);
             x/=10;
         }
-        return prod;
+        return product;
     }
     int smallestNumber(int n, int t) {
         while(true){
