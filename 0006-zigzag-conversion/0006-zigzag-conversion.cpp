@@ -1,0 +1,26 @@
+class Solution {
+public:
+    string convert(string s, int numRows) {
+        if(numRows==1 || s.length()<=numRows)
+            return s;
+        vector<string> rows(numRows);
+        int currentRow=0;
+        int goingDown=true;
+        for(char c: s){
+            rows[currentRow]+= c;
+            if(currentRow==0)
+                goingDown= true;
+            else if(currentRow ==numRows-1)
+                goingDown= false;
+            if(goingDown)
+                currentRow++;
+            else
+                currentRow--;
+        }
+        string ans="";
+        for(string row: rows){
+            ans+= row;
+        }
+        return ans;
+    }
+};
