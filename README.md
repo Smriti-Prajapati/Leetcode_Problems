@@ -36,6 +36,7 @@ A collection of LeetCode questions!
 | [0137-single-number-ii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0137-single-number-ii) |
 | [0149-max-points-on-a-line](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0149-max-points-on-a-line) |
 | [0162-find-peak-element](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0189-rotate-array) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions!
 | [0125-valid-palindrome](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0392-is-subsequence) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions!
 | [0004-median-of-two-sorted-arrays](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/3312-sorted-gcd-pair-queries) |
