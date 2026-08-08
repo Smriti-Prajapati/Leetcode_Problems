@@ -1,25 +1,20 @@
 class Solution {
 public:
-    bool isAlphaNum(char ch){
-        return isalnum(ch);
-    }
     bool isPalindrome(string s) {
-        int st=0;
-        int end= s.length()-1;
-        while(st<=end){
-            if(!isAlphaNum(s[st])){
-                st++;
-                continue;
+        int left=0;
+        int right= s.length()-1;
+        while(left< right){
+            while(left<right && !isalnum(s[left])){
+                left++;
             }
-            if(!isAlphaNum(s[end])){
-                end--;
-                continue;
+            while(left< right && !isalnum(s[right])){
+                right--;
             }
-            if(tolower(s[st]) != tolower(s[end])){
+            if(tolower(s[left]) != tolower(s[right])){
                 return false;
             }
-            st++;
-            end--;
+            left++;
+            right--;
         }
         return true;
     }
