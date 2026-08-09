@@ -508,4 +508,8 @@ A collection of LeetCode questions!
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1140-stone-game-ii) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
