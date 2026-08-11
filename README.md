@@ -194,6 +194,7 @@ A collection of LeetCode questions!
 | [0012-integer-to-roman](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0125-valid-palindrome) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions!
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0042-trapping-rain-water) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -534,4 +536,8 @@ A collection of LeetCode questions!
 | [1683-invalid-tweets](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1757-recyclable-and-low-fat-products) |
 | [1934-confirmation-rate](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1934-confirmation-rate) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
