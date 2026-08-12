@@ -572,4 +572,12 @@ A collection of LeetCode questions!
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0139-word-break) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
