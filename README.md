@@ -85,6 +85,7 @@ A collection of LeetCode questions!
 | [0045-jump-game-ii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions!
 | [0050-powx-n](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0149-max-points-on-a-line) |
 | [0172-factorial-trailing-zeroes](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0189-rotate-array) |
@@ -554,4 +556,8 @@ A collection of LeetCode questions!
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0075-sort-colors) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
