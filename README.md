@@ -20,6 +20,7 @@ A collection of LeetCode questions!
 | [0049-group-anagrams](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0074-search-a-2d-matrix) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions!
 | [0045-jump-game-ii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions!
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0200-number-of-islands) |
