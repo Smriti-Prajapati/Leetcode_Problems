@@ -21,6 +21,7 @@ A collection of LeetCode questions!
 | [0053-maximum-subarray](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0078-subsets) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions!
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0058-length-of-last-word) |
+| [0068-text-justification](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0068-text-justification) |
 | [0125-valid-palindrome](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0151-reverse-words-in-a-string) |
@@ -428,6 +430,7 @@ A collection of LeetCode questions!
 ## Simulation
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0068-text-justification) |
 | [1260-shift-2d-grid](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Topological Sort
