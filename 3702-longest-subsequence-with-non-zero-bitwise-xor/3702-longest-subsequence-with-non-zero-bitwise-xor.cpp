@@ -3,10 +3,10 @@ public:
     int longestSubsequence(vector<int>& nums) {
         int n= nums.size();
         int xr=0;
-        bool hasNonZero=0;
+        bool hasNonZero=false;
         for(int x: nums){
             xr^=x;
-            if(x !=0){
+            if(x!=0){
                 hasNonZero= true;
             }
         }
