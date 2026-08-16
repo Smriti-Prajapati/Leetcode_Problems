@@ -74,6 +74,7 @@ A collection of LeetCode questions!
 | [1406-stone-game-iii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions!
 | [0135-candy](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0135-candy) |
 | [0621-task-scheduler](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0621-task-scheduler) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2029-stone-game-ix](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions!
 | [1140-stone-game-ii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -456,6 +459,7 @@ A collection of LeetCode questions!
 | ------- |
 | [0169-majority-element](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0169-majority-element) |
 | [0621-task-scheduler](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0621-task-scheduler) |
+| [2029-stone-game-ix](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -539,6 +543,7 @@ A collection of LeetCode questions!
 | [0877-stone-game](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/2029-stone-game-ix) |
 ## Trie
 |  |
 | ------- |
@@ -548,10 +553,12 @@ A collection of LeetCode questions!
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/2029-stone-game-ix) |
 ## Database
 |  |
 | ------- |
@@ -628,4 +635,8 @@ A collection of LeetCode questions!
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
