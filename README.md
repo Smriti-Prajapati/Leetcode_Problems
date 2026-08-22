@@ -69,6 +69,7 @@ A collection of LeetCode questions!
 | [1140-stone-game-ii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1288-remove-covered-intervals) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1301-number-of-paths-with-max-score](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1386-cinema-seat-allocation) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions!
 | [0130-surrounded-regions](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0200-number-of-islands) |
 | [1260-shift-2d-grid](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1260-shift-2d-grid) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1301-number-of-paths-with-max-score](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1301-number-of-paths-with-max-score) |
 ## Hash Table
 |  |
@@ -373,6 +375,7 @@ A collection of LeetCode questions!
 | [0226-invert-binary-tree](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0399-evaluate-division) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [2685-count-the-number-of-complete-components](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
