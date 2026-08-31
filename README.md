@@ -547,6 +547,7 @@ A collection of LeetCode questions!
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0141-linked-list-cycle](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0141-linked-list-cycle) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Counting Sort
 |  |
 | ------- |
