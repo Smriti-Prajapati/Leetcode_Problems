@@ -46,6 +46,7 @@ A collection of LeetCode questions!
 | [0137-single-number-ii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0139-word-break) |
 | [0149-max-points-on-a-line](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0149-max-points-on-a-line) |
+| [0152-maximum-product-subarray](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0169-majority-element) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions!
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0139-word-break](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0300-longest-increasing-subsequence) |
