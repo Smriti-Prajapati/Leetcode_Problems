@@ -68,6 +68,7 @@ A collection of LeetCode questions!
 | [0532-k-diff-pairs-in-an-array](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0621-task-scheduler](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0875-koko-eating-bananas](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0877-stone-game) |
 | [0941-valid-mountain-array](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0941-valid-mountain-array) |
 | [0994-rotting-oranges](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0994-rotting-oranges) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions!
 | [0209-minimum-size-subarray-sum](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0875-koko-eating-bananas](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0875-koko-eating-bananas) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/3501-maximize-active-section-with-trade-ii) |
