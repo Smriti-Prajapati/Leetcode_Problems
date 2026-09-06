@@ -72,6 +72,7 @@ A collection of LeetCode questions!
 | [0877-stone-game](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0877-stone-game) |
 | [0941-valid-mountain-array](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0941-valid-mountain-array) |
 | [0994-rotting-oranges](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0994-rotting-oranges) |
+| [1004-max-consecutive-ones-iii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1288-remove-covered-intervals) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions!
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0238-product-of-array-except-self) |
+| [1004-max-consecutive-ones-iii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1140-stone-game-ii) |
 | [1872-stone-game-viii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/3312-sorted-gcd-pair-queries) |
@@ -388,6 +390,7 @@ A collection of LeetCode questions!
 | [0300-longest-increasing-subsequence](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0875-koko-eating-bananas](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0875-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -480,6 +483,7 @@ A collection of LeetCode questions!
 | [0003-longest-substring-without-repeating-characters](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0239-sliding-window-maximum) |
+| [1004-max-consecutive-ones-iii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
