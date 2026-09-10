@@ -475,6 +475,7 @@ A collection of LeetCode questions!
 | [0210-course-schedule-ii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0226-invert-binary-tree) |
 | [0399-evaluate-division](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0399-evaluate-division) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2685-count-the-number-of-complete-components](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/3310-remove-methods-from-project) |
 ## Queue
@@ -609,6 +610,7 @@ A collection of LeetCode questions!
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0226-invert-binary-tree](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0226-invert-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -622,6 +624,7 @@ A collection of LeetCode questions!
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0226-invert-binary-tree](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0226-invert-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Game Theory
 |  |
 | ------- |
