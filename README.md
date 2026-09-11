@@ -477,6 +477,7 @@ A collection of LeetCode questions!
 | [0207-course-schedule](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0399-evaluate-division](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0399-evaluate-division) |
 | [0543-diameter-of-binary-tree](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0543-diameter-of-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -617,6 +618,7 @@ A collection of LeetCode questions!
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0226-invert-binary-tree](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0543-diameter-of-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
@@ -633,6 +635,7 @@ A collection of LeetCode questions!
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0226-invert-binary-tree](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0543-diameter-of-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Game Theory
@@ -752,4 +755,12 @@ A collection of LeetCode questions!
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0543-diameter-of-binary-tree) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
