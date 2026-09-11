@@ -6,7 +6,7 @@ public:
             freq[d]++;
         }
         int ans=0;
-        for(int num=100;num<999;num++){
+        for(int num=100;num<=999;num++){
             if(num%2!=0){
                 continue;
             }
