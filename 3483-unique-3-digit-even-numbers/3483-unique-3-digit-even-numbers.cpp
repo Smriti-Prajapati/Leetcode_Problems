@@ -7,12 +7,12 @@ public:
         }
         int ans=0;
         for(int num=100;num<=999;num++){
-            if(num%2!=0){
+            if(num%2!=0){ //if odd skip that number
                 continue;
             }
-            int a=num/100;
-            int b=(num/10)%10;
-            int c=num%10;
+            int a=num/100; //extract hundredth number
+            int b=(num/10)%10; //extract tens number
+            int c=num%10; //extract ones number
             int need[10]={};
             need[a]++;
             need[b]++;
@@ -24,8 +24,9 @@ public:
                     break;
                 }
             }
-            if(possible)
+            if(possible){
                 ans++;
+            }
         }
         return ans;
     }
