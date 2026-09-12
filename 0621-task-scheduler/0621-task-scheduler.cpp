@@ -1,20 +1,25 @@
 class Solution {
 public:
     int leastInterval(vector<char>& tasks, int n) {
-        vector<int> freq(26, 0);
-
-        for (char task : tasks)
-            freq[task - 'A']++;
-
-        int maxFreq = *max_element(freq.begin(), freq.end());
-
-        int countMax = 0;
-        for (int f : freq) {
-            if (f == maxFreq)
-                countMax++;
+        //step 1.count the number of tasks
+        vector<int> freq(26,0);
+        for(char task: tasks){
+            freq[task-'A']++;
         }
-
-        return max((int)tasks.size(),
-                   (maxFreq - 1) * (n + 1) + countMax);
+        //step 2. find the maximum frequency
+        int maxFreq=0;
+        for(int f: freq){
+            maxFreq= max(maxFreq,f);
+        }
+        //step 3. count how many have that same frequency
+        int numberOfMaxTasks=0;
+        for(int f: freq){
+            if(f== maxFreq){
+                numberOfMaxTasks++;
+            }
+        }
+        //step 4.execute the formula
+        int formula= (maxFreq-1)*(n+1)+numberOfMaxTasks;
+        return max((int)tasks.size(), formula);
     }
 };
