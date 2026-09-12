@@ -15,8 +15,8 @@ public:
                 int card= start+i;
                 if(freq[card]==0)
                     return false;   //if card not present
-                freq[card]--;
-                if(freq[card]==0){
+                freq[card]--; //reduce the number of cards
+                if(freq[card]==0){   //if earlier card was present and now its count is 0 so erase it  from the map.
                     freq.erase(card);
                 }
             }
