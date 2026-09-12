@@ -8,7 +8,7 @@ public:
         });
         //step 2.create removed and prevEnd
         int removed=0;
-        int prevEnd= intervals[0][1];
+        int prevEnd= intervals[0][1]; //end of 1st interval
         //step 3.start iterating
         for(int i=1;i<intervals.size();i++){
             int start= intervals[i][0];
