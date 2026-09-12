@@ -14,7 +14,7 @@ public:
             for(int i=0;i<groupSize;i++){
                 int card= start+i;
                 if(freq[card]==0)
-                    return false;
+                    return false;   //if card not present
                 freq[card]--;
                 if(freq[card]==0){
                     freq.erase(card);
