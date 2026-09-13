@@ -243,6 +243,7 @@ A collection of LeetCode questions!
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0135-candy) |
+| [0402-remove-k-digits](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0621-task-scheduler) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions!
 | [0242-valid-anagram](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0392-is-subsequence) |
 | [0399-evaluate-division](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0399-evaluate-division) |
+| [0402-remove-k-digits](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0402-remove-k-digits) |
 | [0520-detect-capital](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0520-detect-capital) |
 | [0678-valid-parenthesis-string](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0763-partition-labels) |
@@ -357,12 +359,14 @@ A collection of LeetCode questions!
 | [0020-valid-parentheses](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0042-trapping-rain-water) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0402-remove-k-digits](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0402-remove-k-digits) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Math
 |  |
