@@ -69,6 +69,7 @@ A collection of LeetCode questions!
 | [0532-k-diff-pairs-in-an-array](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0621-task-scheduler](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0835-image-overlap](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0835-image-overlap) |
 | [0846-hand-of-straights](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0846-hand-of-straights) |
 | [0875-koko-eating-bananas](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0877-stone-game) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions!
 | [0074-search-a-2d-matrix](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0200-number-of-islands) |
+| [0835-image-overlap](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1260-shift-2d-grid) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
