@@ -15,7 +15,7 @@ public:
             time+=duration;
             pq.push(duration);
             if(time>deadline){
-                time-=pq.top();
+                time-=pq.top(); //remove the largest timeline task
                 pq.pop();
             }
         }
