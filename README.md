@@ -61,6 +61,7 @@ A collection of LeetCode questions!
 | [0274-h-index](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0274-h-index) |
 | [0300-longest-increasing-subsequence](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0321-create-maximum-number](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0321-create-maximum-number) |
 | [0322-coin-change](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0322-coin-change) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0399-evaluate-division) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0202-happy-number) |
+| [0321-create-maximum-number](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0321-create-maximum-number) |
 | [0392-is-subsequence](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0392-is-subsequence) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0763-partition-labels](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0763-partition-labels) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions!
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0135-candy) |
+| [0321-create-maximum-number](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0321-create-maximum-number) |
 | [0402-remove-k-digits](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0435-non-overlapping-intervals) |
@@ -369,6 +372,7 @@ A collection of LeetCode questions!
 | [0020-valid-parentheses](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0042-trapping-rain-water) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0321-create-maximum-number](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0321-create-maximum-number) |
 | [0402-remove-k-digits](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -376,6 +380,7 @@ A collection of LeetCode questions!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0042-trapping-rain-water) |
+| [0321-create-maximum-number](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0321-create-maximum-number) |
 | [0402-remove-k-digits](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0402-remove-k-digits) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Math
