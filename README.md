@@ -65,6 +65,7 @@ A collection of LeetCode questions!
 | [0380-insert-delete-getrandom-o1](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0399-evaluate-division) |
 | [0406-queue-reconstruction-by-height](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0406-queue-reconstruction-by-height) |
+| [0410-split-array-largest-sum](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0486-predict-the-winner](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0486-predict-the-winner) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions!
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0392-is-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0678-valid-parenthesis-string) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions!
 | [0134-gas-station](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0402-remove-k-digits) |
+| [0410-split-array-largest-sum](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0621-task-scheduler) |
@@ -270,6 +273,7 @@ A collection of LeetCode questions!
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0410-split-array-largest-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1140-stone-game-ii) |
 | [1872-stone-game-viii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1872-stone-game-viii) |
@@ -431,6 +435,7 @@ A collection of LeetCode questions!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0300-longest-increasing-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0410-split-array-largest-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0875-koko-eating-bananas](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1004-max-consecutive-ones-iii) |
