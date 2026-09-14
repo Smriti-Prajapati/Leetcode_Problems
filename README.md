@@ -74,6 +74,7 @@ A collection of LeetCode questions!
 | [0630-course-schedule-iii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0630-course-schedule-iii) |
 | [0835-image-overlap](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0835-image-overlap) |
 | [0846-hand-of-straights](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0846-hand-of-straights) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0875-koko-eating-bananas](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0877-stone-game) |
 | [0941-valid-mountain-array](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0941-valid-mountain-array) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions!
 | [0435-non-overlapping-intervals](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0678-valid-parenthesis-string) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0877-stone-game](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1140-stone-game-ii) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions!
 | [0678-valid-parenthesis-string](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0846-hand-of-straights) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1927-sum-game) |
@@ -538,6 +541,7 @@ A collection of LeetCode questions!
 | [0239-sliding-window-maximum](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0239-sliding-window-maximum) |
 | [0621-task-scheduler](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0630-course-schedule-iii) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Monotonic Queue
 |  |
