@@ -190,6 +190,7 @@ A collection of LeetCode questions!
 | [0012-integer-to-roman](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0128-longest-consecutive-sequence) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions!
 | [0049-group-anagrams](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0068-text-justification) |
+| [0076-minimum-window-substring](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0139-word-break) |
@@ -557,6 +559,7 @@ A collection of LeetCode questions!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0239-sliding-window-maximum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1004-max-consecutive-ones-iii) |
