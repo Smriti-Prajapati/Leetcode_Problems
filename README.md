@@ -212,6 +212,7 @@ A collection of LeetCode questions!
 | [0242-valid-anagram](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0380-insert-delete-getrandom-o1) |
+| [0424-longest-repeating-character-replacement](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0454-4sum-ii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0454-4sum-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0523-continuous-subarray-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions!
 | [0392-is-subsequence](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0392-is-subsequence) |
 | [0399-evaluate-division](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0399-evaluate-division) |
 | [0402-remove-k-digits](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0402-remove-k-digits) |
+| [0424-longest-repeating-character-replacement](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0520-detect-capital](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0520-detect-capital) |
 | [0678-valid-parenthesis-string](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0763-partition-labels) |
@@ -591,6 +593,7 @@ A collection of LeetCode questions!
 | [0076-minimum-window-substring](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1248-count-number-of-nice-subarrays) |
