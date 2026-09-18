@@ -1,23 +1,18 @@
 class Solution {
 public:
     int eraseOverlapIntervals(vector<vector<int>>& intervals) {
-        //step 1.sort the array intervals by ending point
-        sort(intervals.begin(), intervals.end(),
-        [](vector<int>& a, vector<int>& b){
+        sort(intervals.begin(),intervals.end(),
+        [](const vector<int>& a,const vector<int>& b){
             return a[1]<b[1];
         });
-        //step 2.create removed and prevEnd
         int removed=0;
-        int prevEnd= intervals[0][1]; //end of 1st interval
-        //step 3.start iterating
+        int prevEnd=intervals[0][1];
         for(int i=1;i<intervals.size();i++){
-            int start= intervals[i][0];
-            int end=intervals[i][1];
-            if(start<prevEnd){
+            if(intervals[i][0]<prevEnd){
                 removed++;
             }
             else{
-                prevEnd=end;
+                prevEnd=intervals[i][1];
             }
         }
         return removed;
