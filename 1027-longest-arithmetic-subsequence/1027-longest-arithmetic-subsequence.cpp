@@ -12,7 +12,7 @@ public:
                 if(dp[j].count(diff)){
                     previousLength= dp[j][diff];
                 }
-                dp[i][diff]= previousLength+1;
+                dp[i][diff]= previousLength+1;   //adding 1 as it is already there
                 ans=max(ans,dp[i][diff]);
             }
         }
