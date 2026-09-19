@@ -1,21 +1,22 @@
 class Solution {
 public:
     int minEatingSpeed(vector<int>& piles, int h) {
-        int low=1;
-        int high=*max_element(piles.begin(),piles.end());
-        while(low<high){
-            int mid=low+(high-low)/2;
+        int left=1;
+        int right=*max_element(piles.begin(), piles.end());
+        //bianry search
+        while(left< right){
+            int k= left+(right- left)/2;
             long long hours=0;
-            for(int banana:piles){
-                hours+=(banana+mid-1)/mid;
+            for(int pile : piles){
+                hours+= (pile+k-1)/k; //ceil in cpp= (arr+k-1)/k;
             }
             if(hours<=h){
-                high=mid;
+                right=k;
             }
             else{
-                low=mid+1;
+                left=k+1;
             }
         }
-        return low;
+        return left;
     }
 };
