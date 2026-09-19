@@ -59,6 +59,7 @@ A collection of LeetCode questions!
 | [0239-sliding-window-maximum](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0260-single-number-iii) |
 | [0274-h-index](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0274-h-index) |
+| [0283-move-zeroes](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0321-create-maximum-number](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0321-create-maximum-number) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0283-move-zeroes) |
 | [0321-create-maximum-number](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0321-create-maximum-number) |
 | [0392-is-subsequence](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0455-assign-cookies) |
