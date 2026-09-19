@@ -217,6 +217,7 @@ A collection of LeetCode questions!
 | [0523-continuous-subarray-sum](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0523-continuous-subarray-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0621-task-scheduler) |
 | [0763-partition-labels](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0846-hand-of-straights) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions!
 | [0321-create-maximum-number](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0321-create-maximum-number) |
 | [0392-is-subsequence](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0392-is-subsequence) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0567-permutation-in-string](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0567-permutation-in-string) |
 | [0763-partition-labels](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0763-partition-labels) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions!
 | [0402-remove-k-digits](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0520-detect-capital](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0520-detect-capital) |
+| [0567-permutation-in-string](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0763-partition-labels) |
 | [0940-distinct-subsequences-ii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0940-distinct-subsequences-ii) |
@@ -595,6 +598,7 @@ A collection of LeetCode questions!
 | [0209-minimum-size-subarray-sum](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0567-permutation-in-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1248-count-number-of-nice-subarrays) |
