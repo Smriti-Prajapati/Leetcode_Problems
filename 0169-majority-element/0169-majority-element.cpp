@@ -1,16 +1,20 @@
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
-        int n=nums.size();
-        unordered_map<int,int> mpp;
-        for(int num:nums){
-            mpp[num]++;
-        }
-        for(auto it:mpp){
-            if(it.second>nums.size()/2){
-                return it.first;
+        //by boyer-moore voting algorithm
+        int candidate=0;
+        int count=0;
+        for(int x:nums){
+            if(count==0){
+                candidate=x;
+            }
+            if(x==candidate){
+                count++;
+            }
+            else{
+                count--;
             }
         }
-        return -1;
+        return candidate;
     }
 };
