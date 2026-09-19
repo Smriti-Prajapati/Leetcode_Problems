@@ -10,8 +10,7 @@ public:
             if(st.find(x-1)== st.end()){
                 int current=x;
                 int length=1;
-            
-                while(st.find(current+1)!=st.end()){
+                while(st.find(current+1)!= st.end()){
                     current++;
                     length++;
                 }
