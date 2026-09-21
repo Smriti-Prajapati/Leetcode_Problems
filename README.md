@@ -456,6 +456,7 @@ A collection of LeetCode questions!
 | [0172-factorial-trailing-zeroes](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0231-power-of-two) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0486-predict-the-winner](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0523-continuous-subarray-sum) |
@@ -568,6 +569,7 @@ A collection of LeetCode questions!
 | [0136-single-number](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0338-counting-bits) |
 | [0461-hamming-distance](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0461-hamming-distance) |
@@ -704,6 +706,7 @@ A collection of LeetCode questions!
 | [0002-add-two-numbers](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0486-predict-the-winner) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/3483-unique-3-digit-even-numbers) |
 ## Geometry
