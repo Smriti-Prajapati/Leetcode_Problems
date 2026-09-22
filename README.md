@@ -71,6 +71,7 @@ A collection of LeetCode questions!
 | [0406-queue-reconstruction-by-height](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0406-queue-reconstruction-by-height) |
 | [0410-split-array-largest-sum](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0435-non-overlapping-intervals) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0454-4sum-ii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0454-4sum-ii) |
 | [0455-assign-cookies](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0455-assign-cookies) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions!
 | [0380-insert-delete-getrandom-o1](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0387-first-unique-character-in-a-string](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0424-longest-repeating-character-replacement) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0454-4sum-ii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0454-4sum-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0523-continuous-subarray-sum) |
