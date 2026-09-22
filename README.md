@@ -368,6 +368,7 @@ A collection of LeetCode questions!
 | [0424-longest-repeating-character-replacement](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0520-detect-capital](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0567-permutation-in-string) |
+| [0640-solve-the-equation](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0640-solve-the-equation) |
 | [0678-valid-parenthesis-string](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0763-partition-labels) |
 | [0940-distinct-subsequences-ii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0940-distinct-subsequences-ii) |
@@ -462,6 +463,7 @@ A collection of LeetCode questions!
 | [0486-predict-the-winner](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0640-solve-the-equation](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0640-solve-the-equation) |
 | [0836-rectangle-overlap](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1140-stone-game-ii) |
@@ -669,6 +671,7 @@ A collection of LeetCode questions!
 | ------- |
 | [0054-spiral-matrix](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0068-text-justification) |
+| [0640-solve-the-equation](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0640-solve-the-equation) |
 | [1260-shift-2d-grid](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/3498-reverse-degree-of-a-string) |
@@ -934,4 +937,8 @@ A collection of LeetCode questions!
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0881-boats-to-save-people) |
+## Linear Algebra
+|  |
+| ------- |
+| [0640-solve-the-equation](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0640-solve-the-equation) |
 <!---LeetCode Topics End-->
