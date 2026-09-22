@@ -220,6 +220,7 @@ A collection of LeetCode questions!
 | [0347-top-k-frequent-elements](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0424-longest-repeating-character-replacement](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0424-longest-repeating-character-replacement) |
+| [0451-sort-characters-by-frequency](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0454-4sum-ii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0454-4sum-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0523-continuous-subarray-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions!
 | [0399-evaluate-division](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0399-evaluate-division) |
 | [0402-remove-k-digits](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0424-longest-repeating-character-replacement) |
+| [0451-sort-characters-by-frequency](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0567-permutation-in-string) |
 | [0640-solve-the-equation](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0640-solve-the-equation) |
@@ -406,6 +408,7 @@ A collection of LeetCode questions!
 | [0347-top-k-frequent-elements](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0406-queue-reconstruction-by-height](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0406-queue-reconstruction-by-height) |
 | [0435-non-overlapping-intervals](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0435-non-overlapping-intervals) |
+| [0451-sort-characters-by-frequency](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0455-assign-cookies) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -638,6 +641,7 @@ A collection of LeetCode questions!
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0630-course-schedule-iii) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0871-minimum-number-of-refueling-stops) |
@@ -689,6 +693,7 @@ A collection of LeetCode questions!
 | ------- |
 | [0169-majority-element](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0621-task-scheduler) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -924,6 +929,7 @@ A collection of LeetCode questions!
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0451-sort-characters-by-frequency) |
 ## Quickselect
 |  |
 | ------- |
