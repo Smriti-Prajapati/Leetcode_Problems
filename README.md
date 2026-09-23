@@ -167,6 +167,7 @@ A collection of LeetCode questions!
 | [0435-non-overlapping-intervals](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0678-valid-parenthesis-string) |
+| [0688-knight-probability-in-chessboard](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0688-knight-probability-in-chessboard) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0877-stone-game](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0940-distinct-subsequences-ii) |
