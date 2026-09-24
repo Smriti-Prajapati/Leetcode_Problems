@@ -474,6 +474,7 @@ A collection of LeetCode questions!
 | [0202-happy-number](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0202-happy-number) |
 | [0227-basic-calculator-ii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0258-add-digits) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0486-predict-the-winner](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0523-continuous-subarray-sum) |
@@ -680,6 +681,7 @@ A collection of LeetCode questions!
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/3312-sorted-gcd-pair-queries) |
@@ -691,6 +693,7 @@ A collection of LeetCode questions!
 | ------- |
 | [0054-spiral-matrix](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0068-text-justification) |
+| [0258-add-digits](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0258-add-digits) |
 | [0640-solve-the-equation](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0640-solve-the-equation) |
 | [1260-shift-2d-grid](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
