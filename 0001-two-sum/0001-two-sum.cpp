@@ -6,7 +6,7 @@ public:
         for(int i=0;i<n;i++){
             int num=nums[i];
             int moreNeeded=target-num;
-            if(mpp.find(moreNeeded)!= mpp.end()){
+            if(mpp.find(moreNeeded) != mpp.end()){
                 return {mpp[moreNeeded],i};
             }
             mpp[num]=i;
