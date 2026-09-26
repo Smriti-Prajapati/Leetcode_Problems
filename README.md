@@ -84,6 +84,7 @@ A collection of LeetCode questions!
 | [0621-task-scheduler](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0630-course-schedule-iii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0630-course-schedule-iii) |
+| [0739-daily-temperatures](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0739-daily-temperatures) |
 | [0835-image-overlap](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0835-image-overlap) |
 | [0846-hand-of-straights](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0846-hand-of-straights) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0871-minimum-number-of-refueling-stops) |
@@ -460,6 +461,7 @@ A collection of LeetCode questions!
 | [0321-create-maximum-number](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0321-create-maximum-number) |
 | [0402-remove-k-digits](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0678-valid-parenthesis-string) |
+| [0739-daily-temperatures](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1096-brace-expansion-ii) |
 ## Monotonic Stack
@@ -468,6 +470,7 @@ A collection of LeetCode questions!
 | [0042-trapping-rain-water](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0042-trapping-rain-water) |
 | [0321-create-maximum-number](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0321-create-maximum-number) |
 | [0402-remove-k-digits](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0402-remove-k-digits) |
+| [0739-daily-temperatures](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Math
 |  |
