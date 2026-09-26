@@ -1,8 +1,8 @@
 class MinStack {
 public:
     //we will keep two stacks
-    stack<int> st;
-    stack<int> minSt;
+    stack<int> st;  //normal stack
+    stack<int> minSt; //stack for keeping minimum element
     MinStack() {
 
     }
