@@ -18,6 +18,7 @@ A collection of LeetCode questions!
 | [0035-search-insert-position](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0054-spiral-matrix) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions!
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0064-minimum-path-sum) |
@@ -486,6 +488,7 @@ A collection of LeetCode questions!
 | [0012-integer-to-roman](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0069-sqrtx) |
