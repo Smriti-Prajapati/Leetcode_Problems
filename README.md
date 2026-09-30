@@ -86,6 +86,7 @@ A collection of LeetCode questions!
 | [0628-maximum-product-of-three-numbers](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0630-course-schedule-iii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0630-course-schedule-iii) |
 | [0739-daily-temperatures](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0739-daily-temperatures) |
+| [0832-flipping-an-image](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0832-flipping-an-image) |
 | [0835-image-overlap](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0835-image-overlap) |
 | [0846-hand-of-straights](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0846-hand-of-straights) |
 | [0867-transpose-matrix](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0867-transpose-matrix) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions!
 | [0074-search-a-2d-matrix](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0200-number-of-islands) |
+| [0832-flipping-an-image](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0832-flipping-an-image) |
 | [0835-image-overlap](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0994-rotting-oranges) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions!
 | [0532-k-diff-pairs-in-an-array](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0567-permutation-in-string) |
 | [0763-partition-labels](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0763-partition-labels) |
+| [0832-flipping-an-image](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0832-flipping-an-image) |
 | [0881-boats-to-save-people](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0881-boats-to-save-people) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -628,6 +631,7 @@ A collection of LeetCode questions!
 | [0260-single-number-iii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0338-counting-bits) |
 | [0461-hamming-distance](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0461-hamming-distance) |
+| [0832-flipping-an-image](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0832-flipping-an-image) |
 | [1386-cinema-seat-allocation](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1386-cinema-seat-allocation) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -727,6 +731,7 @@ A collection of LeetCode questions!
 | [0068-text-justification](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0068-text-justification) |
 | [0258-add-digits](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0258-add-digits) |
 | [0640-solve-the-equation](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0640-solve-the-equation) |
+| [0832-flipping-an-image](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
