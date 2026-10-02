@@ -79,6 +79,7 @@ A collection of LeetCode questions!
 | [0454-4sum-ii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0454-4sum-ii) |
 | [0455-assign-cookies](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0486-predict-the-winner) |
+| [0498-diagonal-traverse](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0498-diagonal-traverse) |
 | [0523-continuous-subarray-sum](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0523-continuous-subarray-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0560-subarray-sum-equals-k) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions!
 | [0074-search-a-2d-matrix](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0200-number-of-islands) |
+| [0498-diagonal-traverse](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0498-diagonal-traverse) |
 | [0832-flipping-an-image](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0832-flipping-an-image) |
 | [0835-image-overlap](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0867-transpose-matrix) |
@@ -733,6 +735,7 @@ A collection of LeetCode questions!
 | [0054-spiral-matrix](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0068-text-justification) |
 | [0258-add-digits](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0258-add-digits) |
+| [0498-diagonal-traverse](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0498-diagonal-traverse) |
 | [0640-solve-the-equation](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0640-solve-the-equation) |
 | [0832-flipping-an-image](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0867-transpose-matrix) |
