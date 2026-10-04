@@ -9,17 +9,16 @@ public:
                 high++;
             }
             else if(c==')'){
-                low--;
+                low=max(0,low-1);//as low cannot be less than 0
                 high--;
             }
-            else{ //c=='*'
-                low--; //if c=(
-                high++; //if c==)
+            else{
+                low=max(0,low-1);
+                high++;
             }
             if(high<0){
                 return false;
             }
-            low= max(0,low);
         }
         return low==0;
     }
