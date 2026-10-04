@@ -12,7 +12,7 @@ public:
                 low=max(0,low-1);//as low cannot be less than 0
                 high--;
             }
-            else{
+            else{ //*
                 low=max(0,low-1);
                 high++;
             }
