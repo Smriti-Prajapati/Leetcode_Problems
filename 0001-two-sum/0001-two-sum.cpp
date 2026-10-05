@@ -8,7 +8,7 @@ public:
             if(mpp.find(moreNeeded) !=mpp.end()){
                 return {mpp[moreNeeded],i};
             }
-            mpp[nums[i]]=i;
+            mpp[num]=i;
         }
         return {-1,-1};
     }
