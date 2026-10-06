@@ -16,6 +16,6 @@ public:
                 }
             }
         }
-        return open+ans;
+        return open+ans; //these are the number of insertions we need to make string valid
     }
 };
