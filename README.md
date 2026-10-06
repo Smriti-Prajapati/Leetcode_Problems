@@ -18,6 +18,7 @@ A collection of LeetCode questions!
 | [0035-search-insert-position](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0053-maximum-subarray) |
@@ -726,6 +727,7 @@ A collection of LeetCode questions!
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0090-subsets-ii) |
 | [1096-brace-expansion-ii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1096-brace-expansion-ii) |
