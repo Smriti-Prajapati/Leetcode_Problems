@@ -399,6 +399,7 @@ A collection of LeetCode questions!
 | [0151-reverse-words-in-a-string](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0227-basic-calculator-ii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0301-remove-invalid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0392-is-subsequence) |
 | [0399-evaluate-division](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0399-evaluate-division) |
@@ -613,6 +614,7 @@ A collection of LeetCode questions!
 | [0207-course-schedule](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0226-invert-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0399-evaluate-division) |
 | [0994-rotting-oranges](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0994-rotting-oranges) |
@@ -730,6 +732,7 @@ A collection of LeetCode questions!
 | [0046-permutations](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0090-subsets-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1096-brace-expansion-ii) |
 ## Number Theory
 |  |
