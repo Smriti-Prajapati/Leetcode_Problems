@@ -1,7 +1,6 @@
 class Solution {
 public:
     long long minSumSquareDiff(vector<int>& nums1, vector<int>& nums2, int k1, int k2) {
-        //create a frequency array of size 10^+1
         vector<int> freq(100001,0);
         int maxDiff=0;
         long long totalDiff=0;
@@ -16,7 +15,7 @@ public:
         if(totalDiff<=k){
             return 0;
         }
-        for(int d=maxDiff;d>=1;d--){
+        for(int d=maxDiff;d >=1;d--){
             if(k==0){
                 break;
             }
@@ -27,7 +26,7 @@ public:
         }
         long long ans=0;
         for(int d=1;d<=maxDiff;d++){
-            ans+= 1LL*d*d*freq[d];
+            ans+=1LL*d*d*freq[d];
         }
         return ans;
     }
