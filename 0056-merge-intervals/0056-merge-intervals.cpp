@@ -1,16 +1,16 @@
 class Solution {
 public:
     vector<vector<int>> merge(vector<vector<int>>& intervals) {
-        sort(intervals.begin(), intervals.end());
+        //step 1 is sort the array
+        sort(intervals.begin(),intervals.end());
+        //create the result array
         vector<vector<int>> result;
-        result.push_back(intervals[0]);
-        for(int i=1;i<intervals.size();i++){
-            if(intervals[i][0]<= result.back()[1]){
-                result.back()[1]= max(result.back()[1],intervals[i][1]);
+        for(auto &interval :intervals){
+            if(result.empty() || result.back()[1]<interval[0]){
+                result.push_back(interval);
             }
-            else{
-                result.push_back(intervals[i]);
-            }
+            //merge the interval
+            result.back()[1]=max(result.back()[1],interval[1]);
         }
         return result;
     }
