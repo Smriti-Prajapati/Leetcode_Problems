@@ -160,6 +160,7 @@ A collection of LeetCode questions!
 | [3876-construct-uniform-parity-array-ii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3886-sum-of-sortable-integers](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/3903-smallest-stable-index-i) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Dynamic Programming
 |  |
 | ------- |
