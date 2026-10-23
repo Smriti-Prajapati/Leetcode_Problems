@@ -324,6 +324,7 @@ A collection of LeetCode questions!
 | [0321-create-maximum-number](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0321-create-maximum-number) |
 | [0344-reverse-string](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0455-assign-cookies) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0567-permutation-in-string) |
@@ -435,6 +436,7 @@ A collection of LeetCode questions!
 | [0399-evaluate-division](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0399-evaluate-division) |
 | [0402-remove-k-digits](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0424-longest-repeating-character-replacement) |
+| [0443-string-compression](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0567-permutation-in-string) |
