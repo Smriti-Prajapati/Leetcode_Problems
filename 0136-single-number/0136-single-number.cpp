@@ -1,15 +1,10 @@
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
-        unordered_map<int,int> mpp;
+        int ans=0;
         for(int num:nums){
-            mpp[num]++;
+            ans=ans^num;
         }
-        for(auto &p:mpp){
-            if(p.second==1){
-                return p.first;
-            }
-        }
-        return -1;
+        return ans;
     }
 };
