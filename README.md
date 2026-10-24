@@ -127,6 +127,7 @@ A collection of LeetCode questions!
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2418-sort-the-people](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/2418-sort-the-people) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions!
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2418-sort-the-people](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/2418-sort-the-people) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -460,6 +462,7 @@ A collection of LeetCode questions!
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2409-count-days-spent-together](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/2409-count-days-spent-together) |
+| [2418-sort-the-people](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/2418-sort-the-people) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -506,6 +509,7 @@ A collection of LeetCode questions!
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2418-sort-the-people](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/2418-sort-the-people) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
