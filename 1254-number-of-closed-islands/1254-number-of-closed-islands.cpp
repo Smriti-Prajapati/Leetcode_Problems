@@ -29,7 +29,7 @@ public:
         for(int i=0;i<m;i++){
             for(int j=0;j<n;j++){
                 if(grid[i][j]==0){
-                    if(dfs(grid,i,j)){
+                    if(dfs(grid,i,j)){  //make it visited
                         count++;
                     }
                 }
