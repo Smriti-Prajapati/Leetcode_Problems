@@ -91,6 +91,7 @@ A collection of LeetCode questions!
 | [0628-maximum-product-of-three-numbers](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0630-course-schedule-iii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0630-course-schedule-iii) |
 | [0643-maximum-average-subarray-i](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0739-daily-temperatures) |
 | [0832-flipping-an-image](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0832-flipping-an-image) |
 | [0835-image-overlap](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0835-image-overlap) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions!
 | [0410-split-array-largest-sum](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0410-split-array-largest-sum) |
 | [0523-continuous-subarray-sum](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1140-stone-game-ii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1140-stone-game-ii) |
