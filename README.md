@@ -89,6 +89,7 @@ A collection of LeetCode questions!
 | [0621-task-scheduler](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0630-course-schedule-iii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0630-course-schedule-iii) |
+| [0643-maximum-average-subarray-i](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0739-daily-temperatures) |
 | [0832-flipping-an-image](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0832-flipping-an-image) |
 | [0835-image-overlap](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0835-image-overlap) |
@@ -762,6 +763,7 @@ A collection of LeetCode questions!
 | [0239-sliding-window-maximum](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0567-permutation-in-string) |
+| [0643-maximum-average-subarray-i](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1248-count-number-of-nice-subarrays) |
