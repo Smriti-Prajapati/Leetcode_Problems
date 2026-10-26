@@ -3,18 +3,21 @@ public:
     int m;
     int n;
     vector<vector<bool>> visited;
-    long long dfs(vector<vector<int>>& grid, int r, int c){
-        if(r<0 || r>=m || c<0 ||c>=n || grid[r][c]==0 ||visited[r][c]){
+    long long dfs(vector<vector<int>>& grid,int r,int c){
+        //boundary condition
+        //grid[r][c]==0 means land so ignore it
+        if(r<0 || r>=m ||c<0 ||c>=n ||grid[r][c]==0 || visited[r][c]){
             return 0;
         }
         visited[r][c]=true;
         long long sum=grid[r][c];
-        sum+=dfs(grid,r-1,c);
-        sum+=dfs(grid,r+1,c);
-        sum+=dfs(grid,r,c-1);
-        sum+=dfs(grid,r,c+1);
+        //4 boundary conditions
+        sum+=dfs(grid,r-1,c); //up
+        sum+=dfs(grid,r+1,c); //down
+        sum+=dfs(grid,r,c-1); //left
+        sum+=dfs(grid,r,c+1); //right
         return sum;
-    }   
+    }
     int countIslands(vector<vector<int>>& grid, int k) {
         m=grid.size();
         n=grid[0].size();
