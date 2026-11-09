@@ -80,6 +80,7 @@ A collection of LeetCode questions!
 | [0435-non-overlapping-intervals](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0454-4sum-ii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0454-4sum-ii) |
 | [0455-assign-cookies](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -614,6 +615,7 @@ A collection of LeetCode questions!
 | [0268-missing-number](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0273-integer-to-english-words) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0380-insert-delete-getrandom-o1) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0509-fibonacci-number) |
