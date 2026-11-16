@@ -125,6 +125,7 @@ A collection of LeetCode questions!
 | [1406-stone-game-iii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions!
 | [1301-number-of-paths-with-max-score](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -427,6 +429,7 @@ A collection of LeetCode questions!
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1140-stone-game-ii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1248-count-number-of-nice-subarrays) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1872-stone-game-viii) |
@@ -637,6 +640,7 @@ A collection of LeetCode questions!
 | [1248-count-number-of-nice-subarrays](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1406-stone-game-iii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
