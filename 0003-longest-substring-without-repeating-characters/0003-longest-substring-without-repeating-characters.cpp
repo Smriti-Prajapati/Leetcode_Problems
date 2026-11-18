@@ -3,15 +3,15 @@ public:
     int lengthOfLongestSubstring(string s) {
         vector<int> lastSeen(256,-1);
         int left=0;
-        int maxLength=0;
+        int ans=0;
         for(int right=0;right<s.size();right++){
-            unsigned char ch=s[right];
+            char ch=s[right];
             if(lastSeen[ch]>=left){
                 left=lastSeen[ch]+1;
             }
             lastSeen[ch]=right;
-            maxLength=max(maxLength,right-left+1);
+            ans=max(ans,right-left+1);
         }
-        return maxLength;
+        return ans;
     }
 };
