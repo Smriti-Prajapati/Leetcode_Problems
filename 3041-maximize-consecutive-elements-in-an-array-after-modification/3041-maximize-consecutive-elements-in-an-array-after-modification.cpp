@@ -6,8 +6,8 @@ public:
         unordered_map<int,int> dp;
         int ans=0;
         for(int num:nums){
-            dp[num+1]=dp[num]+1;
-            dp[num]=dp[num-1]+1;
+            dp[num+1]=max(dp[num+1], dp[num]+1);
+            dp[num]=max(dp[num], dp[num-1]+1);
             ans=max(ans,max(dp[num+1],dp[num]));
         }
         return ans;
