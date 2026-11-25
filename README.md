@@ -122,6 +122,7 @@ A collection of LeetCode questions!
 | [1331-rank-transform-of-an-array](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1352-product-of-the-last-k-numbers) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1406-stone-game-iii) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions!
 | [1267-count-servers-that-communicate](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1267-count-servers-that-communicate) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1301-number-of-paths-with-max-score](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1301-number-of-paths-with-max-score) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
