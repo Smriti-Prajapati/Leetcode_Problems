@@ -125,6 +125,7 @@ A collection of LeetCode questions!
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1386-cinema-seat-allocation) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1406-stone-game-iii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions!
 | [1248-count-number-of-nice-subarrays](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1386-cinema-seat-allocation) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -958,6 +960,7 @@ A collection of LeetCode questions!
 | [0621-task-scheduler](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0621-task-scheduler) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [1267-count-servers-that-communicate](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1267-count-servers-that-communicate) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2029-stone-game-ix](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Smriti-Prajapati/Leetcode_Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
